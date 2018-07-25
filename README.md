@@ -1,6 +1,6 @@
 # <h1>Academic-Projects</h1>
 
-Hi!, in the links below I show some academic projects that I created
+Hi, in the links below I show some academic projects that I created
 
 <h2><b>SolidWorks project:</b></h2>
 
